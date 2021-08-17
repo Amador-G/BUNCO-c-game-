@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="main.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="686" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="Proyecto_bunco1.0_funcionesdec.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="8327" topLine="110" />
+		</Cursor>
+		<Folding>
+			<Collapse line="44" />
+			<Collapse line="46" />
+			<Collapse line="52" />
+			<Collapse line="54" />
+			<Collapse line="61" />
+			<Collapse line="64" />
+			<Collapse line="72" />
+			<Collapse line="74" />
+			<Collapse line="75" />
+			<Collapse line="83" />
+			<Collapse line="85" />
+			<Collapse line="92" />
+			<Collapse line="95" />
+			<Collapse line="103" />
+			<Collapse line="105" />
+			<Collapse line="106" />
+			<Collapse line="114" />
+			<Collapse line="117" />
+			<Collapse line="123" />
+			<Collapse line="125" />
+			<Collapse line="132" />
+			<Collapse line="134" />
+			<Collapse line="168" />
+			<Collapse line="170" />
+			<Collapse line="177" />
+			<Collapse line="179" />
+			<Collapse line="186" />
+			<Collapse line="188" />
+			<Collapse line="197" />
+			<Collapse line="200" />
+			<Collapse line="202" />
+			<Collapse line="209" />
+			<Collapse line="221" />
+			<Collapse line="240" />
+			<Collapse line="241" />
+			<Collapse line="251" />
+			<Collapse line="271" />
+			<Collapse line="276" />
+			<Collapse line="295" />
+			<Collapse line="324" />
+			<Collapse line="347" />
+			<Collapse line="357" />
+			<Collapse line="370" />
+			<Collapse line="377" />
+			<Collapse line="392" />
+			<Collapse line="393" />
+			<Collapse line="399" />
+			<Collapse line="406" />
+			<Collapse line="424" />
+			<Collapse line="427" />
+			<Collapse line="429" />
+			<Collapse line="437" />
+			<Collapse line="453" />
+			<Collapse line="511" />
+			<Collapse line="514" />
+			<Collapse line="521" />
+			<Collapse line="526" />
+			<Collapse line="530" />
+			<Collapse line="535" />
+			<Collapse line="541" />
+			<Collapse line="552" />
+			<Collapse line="555" />
+			<Collapse line="567" />
+			<Collapse line="572" />
+			<Collapse line="575" />
+			<Collapse line="579" />
+			<Collapse line="586" />
+			<Collapse line="592" />
+			<Collapse line="594" />
+			<Collapse line="601" />
+			<Collapse line="603" />
+			<Collapse line="610" />
+			<Collapse line="613" />
+			<Collapse line="615" />
+			<Collapse line="630" />
+			<Collapse line="650" />
+			<Collapse line="655" />
+			<Collapse line="662" />
+			<Collapse line="666" />
+			<Collapse line="673" />
+			<Collapse line="685" />
+			<Collapse line="710" />
+			<Collapse line="714" />
+			<Collapse line="717" />
+			<Collapse line="720" />
+			<Collapse line="728" />
+			<Collapse line="761" />
+			<Collapse line="763" />
+			<Collapse line="799" />
+			<Collapse line="822" />
+			<Collapse line="832" />
+			<Collapse line="839" />
+			<Collapse line="849" />
+			<Collapse line="852" />
+			<Collapse line="869" />
+			<Collapse line="875" />
+			<Collapse line="884" />
+			<Collapse line="888" />
+			<Collapse line="918" />
+			<Collapse line="922" />
+			<Collapse line="924" />
+			<Collapse line="932" />
+			<Collapse line="933" />
+			<Collapse line="937" />
+			<Collapse line="944" />
+			<Collapse line="949" />
+			<Collapse line="950" />
+			<Collapse line="957" />
+			<Collapse line="960" />
+			<Collapse line="991" />
+			<Collapse line="994" />
+			<Collapse line="997" />
+			<Collapse line="1022" />
+			<Collapse line="1024" />
+			<Collapse line="1034" />
+			<Collapse line="1044" />
+			<Collapse line="1047" />
+			<Collapse line="1050" />
+		</Folding>
+	</File>
+	<File name="Proyecto_bunco1.0_funciones.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4033" topLine="39" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

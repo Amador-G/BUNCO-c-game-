@@ -1,0 +1,1590 @@
+# depslib dependency file v1.0
+1606312638 source:e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.0\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606315236 e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.0\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1606320335 source:e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.1(elimino las funciones dupplicadas)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.1(elimino las funciones dupplicadas)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606319878 e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.1(elimino las funciones dupplicadas)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1606320156 source:e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.1(elimino las funciones dupplicadas)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1606574690 source:e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.2(puntaje maximo e  interfaz)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.2(puntaje maximo e  interfaz)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606578551 e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.2(puntaje maximo e  interfaz)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1606576692 source:e:\amador\utn\laboratorio 1\proyecto bunco\proyecto_bunco1.2(puntaje maximo e  interfaz)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1606599796 source:c:\users\lucia\documents\utn\cursos\laboratorio de computacion\int lab\proyecto_bunco1.2(puntaje maximo e  interfaz)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 c:\users\lucia\documents\utn\cursos\laboratorio de computacion\int lab\proyecto_bunco1.2(puntaje maximo e  interfaz)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606599796 c:\users\lucia\documents\utn\cursos\laboratorio de computacion\int lab\proyecto_bunco1.2(puntaje maximo e  interfaz)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1606599649 source:c:\users\lucia\documents\utn\cursos\laboratorio de computacion\int lab\proyecto_bunco1.2(puntaje maximo e  interfaz)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1606693045 source:c:\users\lucia\documents\utn\cursos\laboratorio de computacion\int lab\proyecto_bunco1.3(puntaje maximo e  interfaz)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1571569938 c:\users\lucia\documents\utn\cursos\laboratorio de computacion\int lab\proyecto_bunco1.3(puntaje maximo e  interfaz)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1607695731 c:\users\lucia\documents\utn\cursos\laboratorio de computacion\int lab\proyecto_bunco1.3(puntaje maximo e  interfaz)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1607695571 source:c:\users\lucia\documents\utn\cursos\laboratorio de computacion\int lab\proyecto_bunco1.3(puntaje maximo e  interfaz)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1606600864 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.3(puntaje maximo e  interfaz)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.3(puntaje maximo e  interfaz)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1606609838 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.3(puntaje maximo e  interfaz)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1606676757 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.3(puntaje maximo e  interfaz)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1608108186 source:e:\descargas\proyecto_bunco1.3.1(error de vinculacion)\proyecto_bunco1.3.1(error de vinculacion)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 e:\descargas\proyecto_bunco1.3.1(error de vinculacion)\proyecto_bunco1.3.1(error de vinculacion)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608111307 e:\descargas\proyecto_bunco1.3.1(error de vinculacion)\proyecto_bunco1.3.1(error de vinculacion)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1608110995 source:e:\descargas\proyecto_bunco1.3.1(error de vinculacion)\proyecto_bunco1.3.1(error de vinculacion)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1608108186 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.3.1(error de vinculacion)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.3.1(error de vinculacion)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608111307 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.3.1(error de vinculacion)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1608112066 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.3.1(error de vinculacion)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1608108186 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4(error de vinculacion)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4(error de vinculacion)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608111307 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4(error de vinculacion)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1608431684 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4(error de vinculacion)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1608108186 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4.2(error de vinculacion)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4.2(error de vinculacion)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608111307 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4.2(error de vinculacion)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1608108186 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4.3(error de vinculacion)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4.3(error de vinculacion)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608111307 c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4.3(error de vinculacion)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1608503329 source:c:\users\sebas\downloads\utn\materias\laboratorio de computacion i\tp integrador integrantes\proyecto_bunco1.4.3(error de vinculacion)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1608503602 source:c:\users\lucia\desktop\proyecto_bunco1.4.6(falta puntaje mayor)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1571569938 c:\users\lucia\desktop\proyecto_bunco1.4.6(falta puntaje mayor)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1608111307 c:\users\lucia\desktop\proyecto_bunco1.4.6(falta puntaje mayor)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1608556774 source:c:\users\lucia\desktop\proyecto_bunco1.4.6(falta puntaje mayor)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1610786420 source:j:\utn\proyecto_bunco1.1\proyecto_bunco1.4.6(falta puntaje mayor)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 j:\utn\proyecto_bunco1.1\proyecto_bunco1.4.6(falta puntaje mayor)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1610778071 j:\utn\proyecto_bunco1.1\proyecto_bunco1.4.6(falta puntaje mayor)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1610786317 source:j:\utn\proyecto_bunco1.1\proyecto_bunco1.4.6(falta puntaje mayor)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1610786420 source:j:\utn\proyecto_bunco1.2\proyecto_bunco1.4.6(falta puntaje mayor)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 j:\utn\proyecto_bunco1.2\proyecto_bunco1.4.6(falta puntaje mayor)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1610778071 j:\utn\proyecto_bunco1.2\proyecto_bunco1.4.6(falta puntaje mayor)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1610789321 source:j:\utn\proyecto_bunco1.2\proyecto_bunco1.4.6(falta puntaje mayor)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1610957336 source:j:\utn\proyecto_bunco1.3\proyecto_bunco1.4.6(falta puntaje mayor)\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 j:\utn\proyecto_bunco1.3\proyecto_bunco1.4.6(falta puntaje mayor)\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1610957299 j:\utn\proyecto_bunco1.3\proyecto_bunco1.4.6(falta puntaje mayor)\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1610957276 source:j:\utn\proyecto_bunco1.3\proyecto_bunco1.4.6(falta puntaje mayor)\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1610966697 source:j:\utn\bunco\proyecto_bunco1.4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 j:\utn\bunco\proyecto_bunco1.4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1610959782 j:\utn\bunco\proyecto_bunco1.4\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1610967008 source:j:\utn\bunco\proyecto_bunco1.4\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1611034196 source:j:\utn\bunco\proyecto_bunco1.5\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 j:\utn\bunco\proyecto_bunco1.5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1610959782 j:\utn\bunco\proyecto_bunco1.5\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1611036219 source:j:\utn\bunco\proyecto_bunco1.5\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1611034196 source:j:\utn\bunco\proyecto_bunco1.6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 j:\utn\bunco\proyecto_bunco1.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1610959782 j:\utn\bunco\proyecto_bunco1.6\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1611036893 source:j:\utn\bunco\proyecto_bunco1.6\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1611209853 source:c:\users\fede\desktop\utn\bunco\proyecto_bunco1.6\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 c:\users\fede\desktop\utn\bunco\proyecto_bunco1.6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1611209538 c:\users\fede\desktop\utn\bunco\proyecto_bunco1.6\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1611209828 source:c:\users\fede\desktop\utn\bunco\proyecto_bunco1.6\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1611335913 source:c:\users\fede\desktop\utn\bunco\proyecto_bunco1.7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571569938 c:\users\fede\desktop\utn\bunco\proyecto_bunco1.7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1611245996 c:\users\fede\desktop\utn\bunco\proyecto_bunco1.7\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1611335889 source:c:\users\fede\desktop\utn\bunco\proyecto_bunco1.7\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1611317912 source:f:\utn\bunco\proyecto_bunco1.7\proyecto_bunco1.7\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571555538 f:\utn\bunco\proyecto_bunco1.7\proyecto_bunco1.7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1611227996 f:\utn\bunco\proyecto_bunco1.7\proyecto_bunco1.7\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1611318484 source:f:\utn\bunco\proyecto_bunco1.7\proyecto_bunco1.7\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1611317912 source:f:\utn\bunco\proyecto_bunco1.8(avanzado)\proyecto_bunco1.8\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571555538 f:\utn\bunco\proyecto_bunco1.8(avanzado)\proyecto_bunco1.8\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1611778675 f:\utn\bunco\proyecto_bunco1.8(avanzado)\proyecto_bunco1.8\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1611779638 source:f:\utn\bunco\proyecto_bunco1.8(avanzado)\proyecto_bunco1.8\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1611838733 source:f:\utn\bunco\proyecto_bunco1.9\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571555538 f:\utn\bunco\proyecto_bunco1.9\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1611837784 f:\utn\bunco\proyecto_bunco1.9\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1611840176 source:f:\utn\bunco\proyecto_bunco1.9\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1611838733 source:f:\utn\bunco\proyecto_bunco1.10\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571555538 f:\utn\bunco\proyecto_bunco1.10\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1611843983 f:\utn\bunco\proyecto_bunco1.10\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1611843983 source:f:\utn\bunco\proyecto_bunco1.10\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1613998034 source:f:\utn\bunco\proyecto_bunco1.10 -final\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571555538 f:\utn\bunco\proyecto_bunco1.10 -final\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1614170907 f:\utn\bunco\proyecto_bunco1.10 -final\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1614265450 source:f:\utn\bunco\proyecto_bunco1.10 -final\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+	<windows.h>
+
+1614399516 source:f:\utn\bunco\proyecto_bunco1.11\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571555538 f:\utn\bunco\proyecto_bunco1.11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1614399176 f:\utn\bunco\proyecto_bunco1.11\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1614576816 source:f:\utn\bunco\proyecto_bunco1.11\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1614399516 source:f:\proyectos\bunco\proyecto_bunco1.11\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
+1571555538 f:\proyectos\bunco\proyecto_bunco1.11\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1614399176 f:\proyectos\bunco\proyecto_bunco1.11\proyecto_bunco1.0_funciones.h
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	"rlutil.h"
+
+1614577555 source:f:\proyectos\bunco\proyecto_bunco1.11\proyecto_bunco1.0_funcionesdec.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<ctime>
+	<math.h>
+	<windows.h>
+	<conio.h>
+	"rlutil.h"
+	"Proyecto_bunco1.0_funciones.h"
+
